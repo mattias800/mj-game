@@ -1,10 +1,10 @@
 # mj-game
 
-A mahjong-inspired game built with Godot and C#.
+A platforming metroidvania game built with Godot and C#.
 
 ## About
 
-This project is a fun game implementation featuring mahjong mechanics. It's been crafted with passion and attention to detail.
+This project is a fun game implementation featuring platforming and metroidvania exploration mechanics.
 
 ## Special Thanks
 
